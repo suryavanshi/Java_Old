@@ -1,0 +1,28 @@
+BANKING PROJECT
+List of classes
+1.employee-this class has attributes employeeid,name,userid,password,addr,addr2.The class has
+two methods (1)guimain-provides the options which are available to the empoyee.
+(2)newacc()-creates a new account and information about the customer in the database.
+2.customer-this class extends employee class and has other attributes 
+like account number,account type,guranters account number,balance.
+3.newbank-contains main method and calla interest calculation method 
+when the program is run and then calls the main gui frame of the bank.
+4.interest-this class contains the method which calculates interest
+interest is given every month on the average amount of money in the 
+period of one month.
+5.
+
+ABOUT THE PROJECT ON BANK:
+1. THE TABLE USED ARE:
+			1.CUSTOMER4
+			2.EMPLOYEE
+	`		3.PASSWORD10
+			4.TRANS
+			5.TRANS5
+			6.IDAC
+			7.EMPID
+AS ON 5-DEC-2003 2684 LINES OF CODE.
+
+Marks of project viva voce round 1 [out of 25] for 200201189    Involvement[8]:
+7       Features[4]: 2.5        Clarity[4]: 3   Style[2]: 1     Efficiency[2]: 1
+        Questions[5]: 3.5       Total[25]: 18

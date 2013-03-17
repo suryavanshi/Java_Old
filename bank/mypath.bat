@@ -1,0 +1,14 @@
+set classpath=%classpath%;d:\classes111.jar;
+set classpath=%classpath%;w:\sanjay_chaudhary\oop\invoice\classes111.jar;
+set path=%path%;c:\j2sdk1.4.1_01\bin;c:jdk1.3.1_02\bin;
+set classpath=%classpath%;d:\apache tomcat 4.0\common\lib\servlet.jar;
+set classpath=%classpath%;D:\javamail-1.3.1\mail.jar;
+set classpath=%classpath%;D:\Apache Tomcat 4.0\common\lib\activation.jar;
+set classpath=%classpath%;C:\Program Files\Apache Group\Tomcat 4.1\common\lib\servlet.jar;
+set classpath=%classpath%;C:\Users_DATA\classes111.jar;
+set classpath=%classpath%;x:\jarclass2\bank.jar;
+set classpath=%classpath%;D:\Apache Tomcat 4.0\common\lib\mail.jar;
+set classpath=%classpath%;D:\Apache Tomcat 4.0\common\lib\activation.jar;
+set classpath=%classpath%;C:\Program Files\Apache Tomcat 4.0\common\lib\mail.jar;
+set classpath=%classpath%;C:\Program Files\Apache Tomcat 4.0\common\lib\activation.jar;
+set path=%path%;C:\j2sdk1.4.1_03\bin;
